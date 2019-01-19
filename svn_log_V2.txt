@@ -1,0 +1,63 @@
+
+------------------------------------------------------------------------
+r29 | yai472@USASK.CA | 2018-06-22 22:16:18 -0600 (Fri, 22 Jun 2018) | 1 line
+
+final version for tag V2.0
+------------------------------------------------------------------------
+r28 | yai472@USASK.CA | 2018-06-22 22:06:23 -0600 (Fri, 22 Jun 2018) | 1 line
+
+Update all the files with better syntax and labelling name to the trunk.
+------------------------------------------------------------------------
+r27 | yai472@USASK.CA | 2018-06-22 21:34:29 -0600 (Fri, 22 Jun 2018) | 1 line
+
+Complete and tested interface for parkingManager submitted to trunk.
+------------------------------------------------------------------------
+r26 | yai472@USASK.CA | 2018-06-22 20:15:40 -0600 (Fri, 22 Jun 2018) | 1 line
+
+Edits to vehicle.c/h, parkingManager.c and added printfuel() fxn for interface option 6.
+------------------------------------------------------------------------
+r25 | yai472@USASK.CA | 2018-06-22 19:48:42 -0600 (Fri, 22 Jun 2018) | 1 line
+
+Fixed interface option 1 with fget() for name of vehicle, update trunk.
+------------------------------------------------------------------------
+r24 | yai472@USASK.CA | 2018-06-22 19:45:39 -0600 (Fri, 22 Jun 2018) | 1 line
+
+Fixed interface option 5, update trunk.
+------------------------------------------------------------------------
+r23 | yai472@USASK.CA | 2018-06-22 19:29:58 -0600 (Fri, 22 Jun 2018) | 1 line
+
+Half of interface build n tested in trunk.
+------------------------------------------------------------------------
+r22 | yai472@USASK.CA | 2018-06-22 15:34:09 -0600 (Fri, 22 Jun 2018) | 1 line
+
+Interface for parkingManager is halfway functional. Input all the options. Now to expand utility.
+------------------------------------------------------------------------
+r21 | yai472@USASK.CA | 2018-06-22 13:13:43 -0600 (Fri, 22 Jun 2018) | 1 line
+
+ Starting to build interface of parkingManager.
+------------------------------------------------------------------------
+r20 | yai472@USASK.CA | 2018-06-22 12:40:33 -0600 (Fri, 22 Jun 2018) | 1 line
+
+fixing error in test_reports.c
+------------------------------------------------------------------------
+r19 | yai472@USASK.CA | 2018-06-22 12:36:48 -0600 (Fri, 22 Jun 2018) | 1 line
+
+Built the makefile for the assignment and added to trunk.
+------------------------------------------------------------------------
+r18 | yai472@USASK.CA | 2018-06-22 12:33:49 -0600 (Fri, 22 Jun 2018) | 1 line
+
+Changed all the names of the files to the assignment requirements.
+------------------------------------------------------------------------
+r17 | yai472@USASK.CA | 2018-06-22 12:03:35 -0600 (Fri, 22 Jun 2018) | 1 line
+
+Edited the parkingManager.c and slip up all parts of file in trunk.
+------------------------------------------------------------------------
+r15 | yai472@USASK.CA | 2018-06-22 00:18:31 -0600 (Fri, 22 Jun 2018) | 1 line
+
+Initial commit for old version of the parkingManager program.
+------------------------------------------------------------------------
+r14 | yai472@USASK.CA | 2018-06-22 00:01:34 -0600 (Fri, 22 Jun 2018) | 1 line
+
+CMPT 214 A3 subdirectory for trunk
+------------------------------------------------------------------------
+yai472@tux8:~/214Assignments/ParkingManager> 
