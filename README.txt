@@ -1,9 +1,4 @@
 
-Author: Yasin Isse
-Co-Author: David Kreiser —Sample solution to CMPT 214 A2
-Student ID: 11240548
-NSID: yai472
-Date: June 22, 2018
 
 ====Parking Manager Program====
 
